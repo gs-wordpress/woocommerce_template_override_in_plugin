@@ -1,0 +1,1 @@
+# woocommerce_template_override_in_plugin
